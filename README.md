@@ -55,6 +55,6 @@ The final day brought me to advanced security topics where I learned about Hashi
 
 ---
 
-This repository not only documents my learning but also serves as a reflection of my commitment to enhancing my skills in managing and automating cloud infrastructure.```
+This repository not only documents my learning but also serves as a reflection of my commitment to enhancing my skills in managing and automating cloud infrastructure.
 
 
